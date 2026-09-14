@@ -48,9 +48,9 @@ Manager approval
 3. Summary
 This system demonstrates how OOP helps organize data and behavior into a clear structure.
 
-=====================================================================================
+==============================================
 
-README – Student Attendance Management System
+Student Attendance Management System
 1. Overview
 This project implements a basic student‑attendance management system using Object‑Oriented Programming (OOP).
 It allows creating student records, updating their attendance and course, displaying all students, and calculating average attendance.
